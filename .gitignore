@@ -1,0 +1,4 @@
+
+*.class
+target/classes/META-INF/persistence.xml
+src/META-INF/persistence.xml
